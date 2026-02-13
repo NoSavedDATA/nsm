@@ -1,0 +1,6 @@
+bin/
+sys_lib/
+obj/
+obj_static/
+Makefile_*
+requirements.txt

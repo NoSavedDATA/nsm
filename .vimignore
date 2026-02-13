@@ -1,0 +1,4 @@
+Makefile_*
+*.d
+*.o
+*.so.*
